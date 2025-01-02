@@ -8,4 +8,4 @@ Run
 ```dart run build_runner build --delete-conflicting-outputs``` 
 to run the build runner and to generate the required files
 
-Everytime after changes in the arb file, run the same command and then run the app freshly to see the changes.
+Everytime after changes in the arb file, run the ```flutter pub get``` command and then run the app freshly to see the changes.
